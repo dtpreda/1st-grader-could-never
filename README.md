@@ -17,6 +17,6 @@ For the classification task, we removed the decoder part of the network, and we 
 
 ## Results
 
-[Results graphic](baseline/loss_comparison_unfrozen_encoder.png)
+![Results graphic](baseline/loss_comparison_unfrozen_encoder.png)
 
 As seen in the above graphic, the network is able to better classify images when it goes through the colorization training process.
